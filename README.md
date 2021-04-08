@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Ben
+- :books: I’m a Data Scientist with a BS in Computer Science and a MS in Data Science (concentrating in computational biology).
+- 👀 I work on a variety of projects, not just data science and modeling! But I do enjoy statistics, data, analysis, and modeling.
+  - Most of my personal data science works revolves around biology, medical, and baseball; but that's a small portion of my interests.
+- 🌱 I’m currently focusing on improving my understanding of GANs, RNNs, Flask, and cloud servers.
+- 💞️ I’m open to collaborating on anything based in Python (and sometimes R or JavaScript), but would be particularly open to data science projects.
+- 📫 If you'd like to contact me, feel free to contact me here, on LinkedIn, or email me directly at bjhammack@protonmail.com
