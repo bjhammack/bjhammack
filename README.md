@@ -15,6 +15,7 @@ I am a Data Strategy Scientist at Volkswagen. I have a Master of Science in Data
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/tensorflow%20-%231572B6.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/pytorch%20-%231572B6.svg?&style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/pyspark%20-%231572B6.svg?&style=for-the-badge&logo=apache&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/sql%20-%231572B6.svg?&style=for-the-badge&logo=sql&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
