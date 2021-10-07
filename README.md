@@ -4,7 +4,7 @@
 <h2 align="center"> 👨‍💻 Who am I?</h2>
 <p align="center">
   <samp>
-I am a Data Strategy Scientist at Volkswagen. I have a Master of Science in Data Science (concentrating in Bioinformatics) and a Bachelor of Science in Computer Science. I am a Data Scientist with experience in data wrangling, cleaning, modeling, analysis, visualization, and machine learning. I am  Software Developer with experience in fullstack development, database development, web development, cloud technologies, and ETL processes.
+I am a Lead Data Scientist at Nielsen. I have a Master of Science in Data Science (concentrating in Bioinformatics) and a Bachelor of Science in Computer Science. I am a Data Scientist with experience in data wrangling, cleaning, modeling, analysis, visualization, and machine learning. I am  Software Developer with experience in fullstack development, database development, web development, cloud technologies, and ETL processes.
   </samp><br><br>
   <img src="https://komarev.com/ghpvc/?username=bjhammack" alt="bjhammack" /> 
 </p>
