@@ -37,11 +37,6 @@ I am a Lead Data Scientist at Nielsen. I have a Master of Science in Data Scienc
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
 </p>
 
-<h2 align="center">🐦 Github Statistics </h2>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bjhammack&layout=compact&hide=html&theme=jolly" alt="bjhammack" />&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
 <h2 align="center">🤝 Collaborations? </h2>
 <p align="center">
   <samp>
