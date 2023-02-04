@@ -40,7 +40,7 @@ I am a Lead Data Scientist at Nielsen. I have a Master of Science in Data Scienc
 <h2 align="center">🤝 Collaborations? </h2>
 <p align="center">
   <samp>
-Interested in collaborating? I'd love to work on a variety of projects with you! My main focuses right now are machine learning, image processing, and data visualization, but I'm open to working on anything that interests us both.
+Interested in collaborating? I'd love to work on a variety of projects with you! My main focuses right now are general machine learning, reinforcement learning, and genetic algorithms, but I'm open to working on anything that interests us both.
   </samp>
 </p>
 
