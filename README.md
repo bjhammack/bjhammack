@@ -4,7 +4,7 @@
 <h2 align="center"> 👨‍💻 Who am I?</h2>
 <p align="center">
   <samp>
-I am a Lead Data Scientist at Nielsen. I have a Master of Science in Data Science (concentrating in Bioinformatics) and a Bachelor of Science in Computer Science. Check out [my website](https://www.benjaminhammack.com) for a full overview of my skills and experience.
+I am a Lead Data Scientist at Nielsen. I have a Master of Science in Data Science (concentrating in Bioinformatics) and a Bachelor of Science in Computer Science. Check out my website (https://www.benjaminhammack.com) for a full overview of my skills and experience.
   </samp><br><br>
   <img src="https://komarev.com/ghpvc/?username=bjhammack" alt="bjhammack" /> 
 </p>
